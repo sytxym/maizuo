@@ -1,0 +1,113 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 6429,
+                "name": "封神第一部：朝歌风云",
+                "poster": "https://pic.maizuo.com/usr/movie/f57040d1983ab2923e53aedb36a00cd4.jpg",
+                "actors": [
+                    {
+                        "name": "乌尔善",
+                        "role": "导演/创意制片人",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/45c0074aee9ede6cbdaa92441291ea4c.jpg"
+                    },
+                    {
+                        "name": "费翔",
+                        "role": "商王殷寿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/faa37b41f5a372cafe14348b571c42ae.jpg"
+                    },
+                    {
+                        "name": "李雪健",
+                        "role": "西伯侯姬昌",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6c377dc94628b41e23c924da29cc7ced.jpg"
+                    },
+                    {
+                        "name": "黄渤",
+                        "role": "姜子牙",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f2a4a18bf8cf420b09c0a19d20a4a0fc.jpg"
+                    },
+                    {
+                        "name": "于适",
+                        "role": "姬发",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a05e6c02e6f5df195369793ba45a82d1.jpg"
+                    }
+                ],
+                "director": "乌尔善",
+                "category": "神话|动作|史诗",
+                "synopsis": "中国国民神话史诗大片，震撼视效燃炸暑期！《封神第一部》讲述商王殷寿勾结狐妖妲己，暴虐无道，引发天谴。昆仑仙人姜子牙携“封神榜”下山，寻找天下共主，以救苍生。西伯侯之子姬发逐渐发现殷寿的本来面目，反出朝歌。各方势力暗流涌动，风云变幻端倪初显……三千年想象成真，恢弘史诗再创新，见证中国神话崛起！",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1689811200,
+                "timeType": 3,
+                "runtime": 148,
+                "grade": "7.4",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 6302,
+                "name": "消失的她",
+                "poster": "https://pic.maizuo.com/usr/movie/149ddb9a7f64e06ed474d963cfc6c405.jpg",
+                "actors": [
+                    {
+                        "name": "崔睿",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3b039ff4df6bbaf163fb765947e16015.jpg"
+                    },
+                    {
+                        "name": "刘翔",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/36a85530c38eef39922cd756021b330c.jpg"
+                    },
+                    {
+                        "name": "朱一龙",
+                        "role": "何非",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5fe913e824da4023670f9840a5f619fc.jpg"
+                    },
+                    {
+                        "name": "倪妮",
+                        "role": "陈麦",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1c9ac0732341fb36367714515858d1e7.jpg"
+                    },
+                    {
+                        "name": "文咏珊",
+                        "role": "李木子",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2dfb8869c064ac74816821d93ac8ab20.jpg"
+                    }
+                ],
+                "director": "崔睿|刘翔",
+                "category": "剧情",
+                "synopsis": "何非的妻子李木子在去往东南亚度假岛巴兰迪亚的结婚周年旅行中离奇消失。在何非苦寻无果之时，妻子再次现身，何非却坚持眼前的陌生女人并非妻子。女人拿出了身份证明进行自证，夫妻二人似乎都有不可告人的秘密，随着金牌律师陈麦以及当地警察郑成介入到这起离奇案件中，更多的谜团慢慢浮现……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1687392000,
+                "timeType": 3,
+                "runtime": 122,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 38
+    },
+    "msg": "ok"
+}
